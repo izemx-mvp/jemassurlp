@@ -4,7 +4,7 @@ import {
   Phone, MessageCircle, Calendar, Shield, Clock, Users, CheckCircle2,
   Sparkles, Send, X, Bot, Bell, ChevronRight, MapPin, Star, Zap,
   Lock, HeartHandshake, ArrowRight, Headphones, FileCheck, UserCheck,
-  Eye, EyeOff, Mail, Briefcase, Plane, Home, Car, Stethoscope,
+  Eye, Mail, Briefcase, Plane, Home, Car, Stethoscope,
 } from "lucide-react";
 import { createFileRoute } from "@tanstack/react-router";
 
